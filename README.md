@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on a devtool for vscode 
+- ⚡ Fun fact: I do Arabic Prosody in my free time
+- 📫 How to reach me: belal_shaheen@icloud.com
+
+
 <!--
 **belal-shaheen/belal-shaheen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,5 +17,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
