@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a devtool
-- ⚡ Fun fact: I do Arabic Prosody in my free time
-- 📫 How to reach me: belal_shaheen@icloud.com
+- Ayo
 
 
 <!--
